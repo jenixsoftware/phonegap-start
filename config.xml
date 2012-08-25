@@ -4,10 +4,9 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
-
+	<name>PhoneGap: Getting Started JeNIX Style</name> 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		Trying to put this all together JeNIX Style 
 	</description>
 
 	<author href="http://alunny.github.com"
@@ -15,7 +14,7 @@
 		Andrew Lunny
 	</author>
 
-	<icon src="icon.png" gap:role="default" />
+	<icon src="" gap:role="default" />
 
 	<feature name="http://api.phonegap.com/1.0/geolocation"/>
 	<feature name="http://api.phonegap.com/1.0/network"/>
